@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88d888&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=198f19&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Raphael+Martins;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=198f19&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Raphael+Martins;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 <br>
 ## Mais sobre mim 🤓
 
 - 📚 Formado em informática pra gestão de negócios pela Fatec Rio Preto.
 - 📚 Formado em Direito pela UNIRP - Centro Universitário de Rio Preto.
-- ⚖️ Advogado
-- 🧑‍💻 Estudando programação
+- ⚖️ Advogado.
+- 🧑‍💻 Estudando programação.
 
 <div align="center">
 <a href="https://github.com/PedroH-araujo">
