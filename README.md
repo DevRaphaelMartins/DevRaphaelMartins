@@ -12,8 +12,8 @@
 
 <div align="center">
 <a href="https://github.com/PedroH-araujo">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevRaphaelMartins&theme=tokyonight&show_icons=true">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaphaelMartins&layout=compact&theme=tokyonight">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevRaphaelMartins&theme=tokyonight&show_icons=true">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaphaelMartins&layout=compact&theme=tokyonight">
 </div>
 
 ## Estudando 📚
