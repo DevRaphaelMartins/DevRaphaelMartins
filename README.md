@@ -10,7 +10,7 @@
 - ⚖️ Advogado
 - 🧑‍💻 Estudando programação
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/PedroH-araujo">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevRaphaelMartins&theme=tokyonight&show_icons=true">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaphaelMartins&layout=compact&theme=tokyonight">
