@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=198f19&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;Me+chamo+Raphael+Martins;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 <br>
-<br>
 ## Mais sobre mim 🤓
 
 - 📚 Formado em informática pra gestão de negócios pela Fatec Rio Preto.
@@ -10,10 +9,10 @@
 - ⚖️ Advogado
 - 🧑‍💻 Estudando programação
 
-<div align="left">
+<div align="center">
 <a href="https://github.com/PedroH-araujo">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevRaphaelMartins&theme=tokyonight&show_icons=true">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaphaelMartins&layout=compact&theme=tokyonight">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=DevRaphaelMartins&theme=tokyonight&show_icons=true">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaphaelMartins&layout=compact&theme=tokyonight">
 </div>
 
 ## Estudando 📚
@@ -33,7 +32,4 @@
   <img align="center" alt="mongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 <br>
-<br>
-<br>
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88d888&height=120&section=footer"/>
