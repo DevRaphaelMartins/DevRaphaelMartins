@@ -10,9 +10,9 @@
 - 🧑‍💻 Estudando programação.
 
 <div align="center">
-<a href="https://github.com/PedroH-araujo">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=DevRaphaelMartins&theme=tokyonight&show_icons=true">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaphaelMartins&layout=compact&theme=tokyonight">
+<a href="https://github.com/DevRaphaelMartins">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRaphaelMartins&theme=tokyonight&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaphaelMartins&layout=compact&theme=tokyonight&show_icons=true">
 </div>
 
 ## Estudando 📚
